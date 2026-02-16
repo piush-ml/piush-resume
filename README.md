@@ -8,7 +8,7 @@ piush-das-resume.pdf – Updated professional resume of Piush Das
 
 👤 About Me
 
-I am a student focused on Machine Learning, Data Science, and Finance, with experience in building ML projects, APIs, and full-stack applications.
+I am a student focused on Data Science, Machine Learning and Development, with experience in building ML projects, APIs, and full-stack applications.
 
 📬 Contact
 
